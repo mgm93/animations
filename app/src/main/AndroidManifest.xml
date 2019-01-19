@@ -19,6 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".View.Animations.BatteryAnimActivity">
+        </activity>
     </application>
 
 </manifest>
